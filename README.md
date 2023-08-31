@@ -1,5 +1,5 @@
 
-### Hi! I'm Guilherme 🧑‍💻
+### Hi there 
 
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bonfim-3680a419a/)
